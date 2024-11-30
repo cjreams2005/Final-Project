@@ -6,6 +6,6 @@ We're looking to find the best neighborhood in Pittsburgh for going on relaxing 
 - CJ Reamer (cjr167@pitt.edu) (Air Quality)
 - Carly Bowen (cab582@pitt.edu) (Trees)
 - Kenny Han (dih37@pit.edu) (Number of Parks)
-  https://data.wprdc.org/dataset/parks1
-  https://data.wprdc.org/dataset/neighborhoods2
+https://data.wprdc.org/dataset/parks1
+https://data.wprdc.org/dataset/neighborhoods2
 

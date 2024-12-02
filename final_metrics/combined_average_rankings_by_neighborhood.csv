@@ -1,0 +1,91 @@
+neighborhood,count,park_rank,tree_rank,average_rank
+East Liberty,9.0,1,7,4.0
+Squirrel Hill South,5.0,10,1,5.5
+Central Business District,7.0,2,10,6.0
+Point Breeze,6.0,7,8,7.5
+South Side Flats,5.0,11,4,7.5
+Mount Washington,6.0,8,12,10.0
+Bloomfield,3.0,16,6,11.0
+Brighton Heights,4.0,12,11,11.5
+Beechview,7.0,3,24,13.5
+Hazelwood,6.0,6,22,14.0
+Central Northside,3.0,17,21,19.0
+Crawford-Roberts,4.0,15,25,20.0
+Marshall-Shadeland,4.0,14,29,21.5
+Point Breeze North,3.0,19,26,22.5
+Lincoln-Lemington-Belmar,3.0,18,27,22.5
+Manchester,3.0,27,19,23.0
+Carrick,2.0,31,16,23.5
+Sheraden,5.0,9,39,24.0
+Garfield,3.0,26,23,24.5
+Brookline,2.0,36,14,25.0
+Perry North,1.0,47,9,28.0
+Central Oakland,4.0,13,43,28.0
+Greenfield,2.0,40,17,28.5
+Allegheny Center,1.0,45,13,29.0
+South Oakland,6.0,5,56,30.5
+South Side Slopes,7.0,4,57,30.5
+Strip District,2.0,32,30,31.0
+Central Lawrenceville,1.0,46,18,32.0
+Banksville,2.0,30,35,32.5
+Lower Lawrenceville,2.0,37,28,32.5
+Upper Lawrenceville,3.0,24,42,33.0
+Squirrel Hill North,1.0,64,3,33.5
+North Oakland,1.0,55,15,35.0
+Crafton Heights,2.0,28,44,36.0
+Stanton Heights,1.0,53,20,36.5
+Westwood,3.0,22,54,38.0
+Homewood North,2.0,38,38,38.0
+Perry South,2.0,33,45,39.0
+Swisshelm Park,3.0,23,55,39.0
+Shadyside,0.0,73,5,39.0
+Troy Hill,3.0,20,59,39.5
+Larimer,2.0,35,48,41.5
+Morningside,1.0,52,32,42.0
+East Hills,1.0,57,31,44.0
+Spring Hill-City View,3.0,21,67,44.0
+Elliott,3.0,25,63,44.0
+Highland Park,0.0,89,2,45.5
+West End,2.0,29,65,47.0
+Homewood South,1.0,65,33,49.0
+Lincoln Place,1.0,51,52,51.5
+Upper Hill,1.0,41,62,51.5
+Beltzhoover,2.0,39,64,51.5
+Regent Square,0.0,71,36,53.5
+Middle Hill,1.0,61,47,54.0
+Fineview,2.0,34,74,54.0
+Knoxville,0.0,72,37,54.5
+Bluff,1.0,56,58,57.0
+Oakwood,1.0,43,71,57.0
+Allegheny West,0.0,75,41,58.0
+Windgap,1.0,50,66,58.0
+Duquesne Heights,1.0,48,69,58.5
+Bon Air,1.0,44,73,58.5
+North Shore,0.0,86,34,60.0
+Polish Hill,1.0,70,51,60.5
+Terrace Village,1.0,68,53,60.5
+East Allegheny,0.0,85,40,62.5
+Chateau,0.0,76,49,62.5
+Bedford Dwellings,1.0,66,60,63.0
+Spring Garden,1.0,49,78,63.5
+Esplen,1.0,42,87,64.5
+New Homestead,1.0,69,61,65.0
+Arlington,1.0,62,68,65.0
+West Oakland,1.0,54,77,65.5
+Friendship,0.0,87,46,66.5
+Allentown,1.0,58,75,66.5
+Overbrook,0.0,88,50,69.0
+Homewood West,1.0,67,72,69.5
+Fairywood,1.0,59,81,70.0
+East Carnegie,1.0,63,84,73.5
+California-Kirkbride,0.0,79,70,74.5
+Summer Hill,0.0,74,76,75.0
+Hays,1.0,60,90,75.0
+St. Clair,0.0,77,83,80.0
+Mt. Oliver,0.0,80,82,81.0
+Ridgemont,0.0,82,80,81.0
+Chartiers City,0.0,84,79,81.5
+Glen Hazel,0.0,78,89,83.5
+Arlington Heights,0.0,83,86,84.5
+South Shore,0.0,81,88,84.5
+Northview Heights,0.0,90,85,87.5

@@ -17,7 +17,6 @@ https://data.wprdc.org/dataset/parks1
 A dataset for the geographical data on where parks are.
 https://data.wprdc.org/dataset/neighborhoods2
 A dataset for the geographical data on where the neighborhoods are.
-
 Combined the two to find the neighborhoods tha contains the most amount of parks.
 
 

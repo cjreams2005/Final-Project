@@ -13,7 +13,7 @@ $$
 $$
 
 
-The ranking of each individual metrix is defined as its "place" when sorted in descnding order based on the individual metric, i.e. the neighborhood with most about of trees would be rank 1, the second most would be rank 2, etc. So if a neighborhood was rank 1 in parks, rank 5 in water features, and rank 3 in trees, the overall metrix score would be $\frac{1 + 5 +3}{3} = 3$. 
+The ranking of each individual metrix is defined as its "place" when sorted in descnding order based on the individual metric, i.e. the neighborhood with most about of trees would be rank 1, the second most would be rank 2, etc. So if a neighborhood was rank 1 in parks, rank 5 in water features, and rank 3 in trees, the overall metric score would be $\frac{1 + 5 +3}{3} = 3$. 
 
 So, the best neighborhood based on the overall metric is the one with with the smallest overall metric.
 ## Team Members and Datasets

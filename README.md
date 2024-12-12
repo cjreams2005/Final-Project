@@ -6,6 +6,12 @@ Measuring the best neighborhoods to go on a walk in based on number of water fea
 We're looking to find the best neighborhood in Pittsburgh for going on relaxing walks together while having a good yap (fufilling conversations). In order to find the best neighborhood for taking a chill walk, we have decided on three metrics: water features, trees, and park features. The amount of trees relates to overall environment with nature as well as cleaner air quality for creating a refreshing outside environment that allows for fresh air during walks. Park features as well as water features allows for more fun, convienient, and recreational activities to stop by and possibly have fun with during walks.
 
 ## Team Members and Datasets: group 52
+## Metics
+$Number of Parks, Number of Water Features, Number of Trees$
+
+$$
+Overall metric = 
+$$
 ### CJ Reamer (cjr167@pitt.edu) (Water Features)
 A dataset for all the water features in each neighborhood in Pittsburgh.
 

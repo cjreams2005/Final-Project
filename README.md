@@ -17,14 +17,14 @@ The ranking of each individual metrix is defined as its "place" when sorted in d
 
 So, the best neighborhood based on the overall metric is the one with with the smallest overall metric.
 ## Team Members and Datasets
-### CJ Reamer (cjr167@pitt.edu) (Water Features)
+#### CJ Reamer (cjr167@pitt.edu) (Water Features)
 A dataset for all the water features in each neighborhood in Pittsburgh.
 
-### Carly Bowen (cab582@pitt.edu) (Trees)
+#### Carly Bowen (cab582@pitt.edu) (Trees)
 https://data.wprdc.org/dataset/city-trees/resource/1515a93c-73e3-4425-9b35-1cd11b2196da
 A dataset for all the trees and the number of trees in each neighborhood in Pittsburgh.
 
-### Kenny Han (dih37@pit.edu) (Number of Parks)
+#### Kenny Han (dih37@pit.edu) (Number of Parks)
 https://data.wprdc.org/dataset/parks1
 A dataset for the geographical data on where parks are.
 

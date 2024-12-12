@@ -10,8 +10,9 @@ We're looking to find the best neighborhood in Pittsburgh for going on relaxing 
 Number of Parks, Number of Water Features, Number of Trees
 
 $$
-\text{Overall_Metric} = \frac{\text{Number of Parks Ranking(Neighborhood)} + \text{Number of Water Features Ranking(Neighborhood)}  + \text{Number of Trees Ranking(Neighborhood)}{3}
+\text{Overall Metric} = \frac{\text{Number of Parks Ranking(Neighborhood)} + \text{Number of Water Features Ranking(Neighborhood)} + \text{Number of Trees Ranking(Neighborhood)}}{3}
 $$
+
 ### CJ Reamer (cjr167@pitt.edu) (Water Features)
 A dataset for all the water features in each neighborhood in Pittsburgh.
 

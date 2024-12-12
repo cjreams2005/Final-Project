@@ -7,10 +7,10 @@ We're looking to find the best neighborhood in Pittsburgh for going on relaxing 
 
 ## Team Members and Datasets: group 52
 ## Metics
-$Number of Parks, Number of Water Features, Number of Trees$
+$Number_of_Parks$, $Number_of_Water Features$, $Number_of_Trees$
 
 $$
-Overall metric = 
+Overall_Metric = \frac{Number_of_Parks_Rank(Neighborhood)}{3}
 $$
 ### CJ Reamer (cjr167@pitt.edu) (Water Features)
 A dataset for all the water features in each neighborhood in Pittsburgh.

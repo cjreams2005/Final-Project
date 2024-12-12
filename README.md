@@ -24,8 +24,11 @@ Combined the two to find the neighborhoods tha contains the most amount of parks
 
 ## Notebooks and Submission 
 **Final Notebook:** group_52_final_notebook.ipynb
+
 **Kenny Han Notebook:** parks.ipynb
+
 **Carly Bowen Notebook:** trees.ipynb
+
 **CJ Reamer:** water_features.ipynb
 
 

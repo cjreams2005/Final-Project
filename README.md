@@ -6,11 +6,11 @@ Measuring the best neighborhoods to go on a walk in based on number of water fea
 We're looking to find the best neighborhood in Pittsburgh for going on relaxing walks together while having a good yap (fufilling conversations). In order to find the best neighborhood for taking a chill walk, we have decided on three metrics: water features, trees, and park features. The amount of trees relates to overall environment with nature as well as cleaner air quality for creating a refreshing outside environment that allows for fresh air during walks. Park features as well as water features allows for more fun, convienient, and recreational activities to stop by and possibly have fun with during walks.
 
 ## Team Members and Datasets: group 52
-## Metics
+## Metics and Overall Metric EXPLAINED
 Number of Parks, Number of Water Features, Number of Trees
 
 $$
-\text{Overall Metric} = \frac{\text{# Parks Ranking(Neighborhood)} + \text{# Water Features Ranking(Neighborhood)} + \text{# Trees Ranking(Neighborhood)}}{3}
+\text{Overall Metric} = \frac{\text{\# Parks Ranking(Neighborhood)} + \text{\# Water Features Ranking(Neighborhood)} + \text{\# Trees Ranking(Neighborhood)}}{3}
 $$
 
 The ranking of each individual metrix is defined as its "place" when sorted in descnding order based on the individual metric, i.e. the neighborhood with most about of trees would be rank 1, the second most would be rank 2, etc. So if a neighborhood was rank 1 in parks, rank 5 in water features, and rank 3 in trees, the overall metrix score would be $\frac{1 + 5 +3}{3} = 3$. 

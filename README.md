@@ -23,6 +23,10 @@ A dataset for the geographical data on where the neighborhoods are.
 Combined the two to find the neighborhoods tha contains the most amount of parks.
 
 ## Notebooks and Submission 
-**Final notebook:** 
+**Final Notebook:** group_52_final_notebook.ipynb
+**Kenny Han Notebook:**
+**Carly Bowen Notebook:**
+**CJ Reamer:**
+
 
 

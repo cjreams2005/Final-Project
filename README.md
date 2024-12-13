@@ -13,11 +13,12 @@ $$
 $$
 
 
-The ranking of each individual metrix is defined as its "place" when sorted in descnding order based on the individual metric, i.e. the neighborhood with most about of trees would be rank 1, the second most would be rank 2, etc. So if a neighborhood was rank 1 in parks, rank 5 in water features, and rank 3 in trees, the overall metrix score would be $\frac{1 + 5 +3}{3} = 3$. 
+The ranking of each individual metrix is defined as its "place" when sorted in descnding order based on the individual metric, i.e. the neighborhood with most about of trees would be rank 1, the second most would be rank 2, etc. So if a neighborhood was rank 1 in parks, rank 5 in water features, and rank 3 in trees, the overall metric score would be $\frac{1 + 5 +3}{3} = 3$. 
 
 So, the best neighborhood based on the overall metric is the one with with the smallest overall metric.
 ## Team Members and Datasets
 #### CJ Reamer (cjr167@pitt.edu) (Water Features)
+https://data.wprdc.org/dataset/city-water-features/resource/513290a6-2bac-4e41-8029-354cbda6a7b7/view/7a52ea44-d643-4f06-844e-9852a5ad21db
 A dataset for all the water features in each neighborhood in Pittsburgh.
 
 #### Carly Bowen (cab582@pitt.edu) (Trees)
